@@ -3,7 +3,7 @@
 <h3 align="center">Just a self motivated teen with a dream to become a software developer with passion from India, with the knwoledge of both front-end and backend web development and specialization in MERN stack.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@sayan.mid590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sayan.mid590" height="30" width="40" /></a>
 </p>
 
