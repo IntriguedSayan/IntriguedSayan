@@ -49,7 +49,7 @@
 
 <a href="https://github.com/IntriguedSayan?tab=repositories">
 <img width="400" height="auto" align="center"  alt="Sayan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=IntriguedSayan&show_icons=true&theme=highcontrast&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api?username=intriguedsayan&show_icons=true&theme=highcontrast&count_private=true" />
   </a>
   </p>
 
