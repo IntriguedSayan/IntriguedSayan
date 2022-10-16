@@ -1,6 +1,6 @@
 <p align="center"><img width="100%"  height="auto" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="50%"/></p>
 <h1 align="center">Hi 👋, I'm Sayan Mukherjee</h1>
-<h3 align="center">Just a self motivated teen with a dream to become a software developer with passion from India, with the knwoledge of both front-end and backend web development and specialization in MERN stack.</h3>
+<h3 align="center">Just a self motivated man with a dream to become a software developer with passion and with the knwoledge of both front-end and backend web development and specialization in MERN stack from India.</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayan-mukherjee-5678b2232/" height="30" width="40" /></a>
